@@ -1,0 +1,22 @@
+{
+  "name": "judpack-ios",
+  "version": "0.0.2",
+  "description": "jud pack ios",
+  "main": "bin/templates/scripts/cordova/Api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkiding/judpack-ios.git"
+  },
+  "keywords": [
+    "jud"
+  ],
+  "author": "vkiding",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vkiding/judpack-ios/issues"
+  },
+  "homepage": "https://github.com/vkiding/judpack-ios#readme"
+}
