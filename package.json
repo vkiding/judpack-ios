@@ -1,6 +1,6 @@
 {
   "name": "judpack-ios",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "jud pack ios",
   "main": "bin/templates/scripts/cordova/Api.js",
   "scripts": {
