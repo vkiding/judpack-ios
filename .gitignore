@@ -15,3 +15,5 @@ CVS
 node_modules/*
 node_module/.bin/*
 xcuserdata/*
+xcuserdata
+
