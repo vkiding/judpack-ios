@@ -9,31 +9,4 @@ inhibit_all_warnings!
 
 target 'JudDemo' do
 
-#  # 网络库
-#  pod 'AFNetworking'
-
-#  # 自动布局库
-#  pod 'Masonry'
-
-#  # 图片库
-#  pod 'SDWebImage'
-
-#  # 图片库支持webp
-#  pod 'SDWebImage/WebP'
-
-#  # 图片库支持GIF
-#  pod 'SDWebImage/GIF'
-
-#  # 数据库
-#  pod 'FMDB'
-
-#  # 模型转化库
-#  pod 'YYModel'
-
-#  # 常用分类库
-#  pod 'YYCategories'
-
-#  # 加载等待库
-#  pod 'MBProgressHUD'
-
 end

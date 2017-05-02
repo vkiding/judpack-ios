@@ -1,0 +1,14 @@
+//
+//  JudDemo.pch
+//  JudDemo
+//
+//  Created by vkiding on 17/5/2.
+//  Copyright © 2017年 vkiding. All rights reserved.
+//
+
+#ifndef JudDemo_pch
+#define JudDemo_pch
+
+#import <JudSDK/JudSDK.h>
+
+#endif /* JudDemo_pch */

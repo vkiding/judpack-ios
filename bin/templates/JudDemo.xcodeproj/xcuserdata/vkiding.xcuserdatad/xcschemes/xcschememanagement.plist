@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>UniversalTemplate.xcscheme</key>
+		<key>JudDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>5F66C26C1E5E91AA009C4294</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>5F66C2851E5E91AA009C4294</key>
+		<key>EE6812341EB8370600E89E2B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
