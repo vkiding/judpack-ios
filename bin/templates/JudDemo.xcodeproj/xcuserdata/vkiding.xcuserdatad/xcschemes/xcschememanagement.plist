@@ -2,19 +2,22 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>UniversalTemplate.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>775BEE7A1C1E8ECC008D1629</key>
+		<key>5F66C26C1E5E91AA009C4294</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>775BEE931C1E8ECC008D1629</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>84361D261CA10F8E00F43825</key>
+		<key>5F66C2851E5E91AA009C4294</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -1,0 +1,6 @@
+framework module JudSDK {
+  umbrella header "JudSDK.h"
+
+  export *
+  module * { export * }
+}

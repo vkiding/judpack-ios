@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/vkiding/Documents/Git/pack/judpack-ios/bin/templates/JudDemo.xcodeproj">
    </FileRef>
 </Workspace>

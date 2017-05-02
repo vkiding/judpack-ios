@@ -1,20 +1,39 @@
-source 'git@github.com/CocoaPods/Specs.git'
+# 在使用swift pod的库前面加入这行注释
+# use_frameworks!
+
+# 表示工程本身的最低版支持版本
 platform :ios, '7.0'
-#inhibit_all_warnings!
 
-def common
-	pod 'judSDK'
-	pod 'judplugin', :path=>'./judplugin/'
-    pod 'WXDevtool'
-    pod 'SDWebImage', '3.7.5'
-    pod 'SocketRocket', '0.4.2'
-    pod 'ATSDK-jud', '0.0.1'
-end
+# 表示关闭所有警告信息
+inhibit_all_warnings!
 
-target 'judDemo' do
-    common
-end
+target 'JudDemo' do
 
-target 'judUITestDemo' do
-    common
+#  # 网络库
+#  pod 'AFNetworking'
+
+#  # 自动布局库
+#  pod 'Masonry'
+
+#  # 图片库
+#  pod 'SDWebImage'
+
+#  # 图片库支持webp
+#  pod 'SDWebImage/WebP'
+
+#  # 图片库支持GIF
+#  pod 'SDWebImage/GIF'
+
+#  # 数据库
+#  pod 'FMDB'
+
+#  # 模型转化库
+#  pod 'YYModel'
+
+#  # 常用分类库
+#  pod 'YYCategories'
+
+#  # 加载等待库
+#  pod 'MBProgressHUD'
+
 end
